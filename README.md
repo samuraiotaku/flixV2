@@ -154,7 +154,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/MRWtnj7qkSYacLhm48" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MRWtnj7qkSYacLhm48">via GIPHY</a></p>
+<img src='https://media.giphy.com/media/MRWtnj7qkSYacLhm48/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Giphy. https://giphy.com/
 
